@@ -3,8 +3,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/diegodev9)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Gitlab&logoColor=orange)](https://gitlab.com/diegodev9)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diegodev9@gmail.com)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegodev9&show_icons=true&hide_title=true)
-
 
 Fullstack Engineer con foco en **Ruby on Rails y React**, apasionado por crear productos sólidos, escalables y bien diseñados.  
 Trabajo con una fuerte orientación a **buenas prácticas, performance, SEO e infraestructura**, cuidando tanto el código como la experiencia del usuario.
