@@ -79,8 +79,8 @@ Trabajo con una fuerte orientación a **buenas prácticas, performance, SEO e in
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: *(agregá tu link acá)*  
-- 🌐 Portfolio / Web: *(si querés, después lo sumamos)*  
+- 💼 LinkedIn: [diegodev9](https://linkedin.com/diego-ricardo-amaya)
+- 🌐 Portfolio / Web: [dev9.com.ar](https://www.dev9.com.ar)  
 - ✉️ Email: *(opcional)*  
 
 ---
